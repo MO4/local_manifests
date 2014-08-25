@@ -25,7 +25,7 @@
 <project name="MO4/android_kernel_motorola_omap4-common" path="kernel/motorola/omap4-common" remote="github" revision="cm-11.0" />
 
 <!-- VENDOR -->
-<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-11.0" />
+<project name="MO4/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-11.0" />
 
 <!-- EXTRAS -->
 <project name="MO4/slim_android_build" path="build" remote="github" revision="kk4.4-mo4" />
